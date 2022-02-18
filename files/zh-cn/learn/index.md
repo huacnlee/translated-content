@@ -10,11 +10,12 @@ tags:
   - 前端
   - 启程
   - 学习
-  - 学习Web开发
+  - 学习 Web 开发
   - 索引
   - 网站
 translation_of: Learn
 ---
+
 {{LearnSidebar}}
 
 欢迎来到 MDN 学习区。本系列文章面对零基础 Web 开发初学者，包含编写简单网站的必备知识。
@@ -42,7 +43,7 @@ translation_of: Learn
 - 零基础的初学者
   - : 如果你完全没有 Web 开发背景，那么我们推荐通过 [Web 入门](/zh-CN/docs/Learn/Getting_started_with_the_web) 模块来学习，它采用了实践学习的方式帮你入门。
 - 提高阶段
-  - : 如果你具备了一定的开发知识，下一步就是深入学习 {{glossary("HTML")}} 和 {{glossary("CSS")}}。先学习 [HTML入门](/zh-CN/docs/Learn/HTML/Introduction_to_HTML)，再学习 [CSS 初步](/zh-CN/docs/Learn/CSS/First_steps)。
+  - : 如果你具备了一定的开发知识，下一步就是深入学习 {{glossary("HTML")}} 和 {{glossary("CSS")}}。先学习 [HTML 入门](/zh-CN/docs/Learn/HTML/Introduction_to_HTML)，再学习 [CSS 初步](/zh-CN/docs/Learn/CSS/First_steps)。
 - 学习脚本
   - : 在完成 HTML 和 CSS 入门课程之后，或者你只关心编写代码，可以继续学习 {{glossary("JavaScript")}} 或服务器端开发。可通过[JavaScript 初步](/zh-CN/docs/Learn/JavaScript/First_steps) 和 [服务器端初步](/zh-CN/docs/Learn/Server-side/First_steps) 开始学习。
 - 框架与工具
@@ -87,25 +88,25 @@ translation_of: Learn
 
 3. 在终端中输入以下命令，即可将 learning-area 仓库拷贝到本地的 learning-area 文件夹：
 
-    ```bash
-    git clone https://github.com/roy-tian/learning-area
-    ```
+   ```bash
+   git clone https://github.com/roy-tian/learning-area
+   ```
 
-4. 然后可以用访达（macOS）、文件资源管理器（Windows/Linux）、[`cd` 命令](https://zh.wikipedia.org/wiki/Cd_(命令))) 进入该目录，查找所需文件。
+4. 然后可以用访达（macOS）、文件资源管理器（Windows/Linux）、[`cd` 命令](<https://zh.wikipedia.org/wiki/Cd_(命令)>)) 进入该目录，查找所需文件。
 
 可以使用以下方法让本地 `learning-area` 与 GitHub 中 master 版本保持一致：
 
-1.  在终端中使用 `cd` 进入 `learning-area` 文件夹。比如，如果当前位于上一层文件夹，则可以：
+1. 在终端中使用 `cd` 进入 `learning-area` 文件夹。比如，如果当前位于上一层文件夹，则可以：
 
-    ```bash
-    cd learning-area
-    ```
+   ```bash
+   cd learning-area
+   ```
 
 2. 使用以下命令更新仓库：
 
-    ```bash
-    git pull
-    ```
+   ```bash
+   git pull
+   ```
 
 ## 联系我们
 
